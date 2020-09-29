@@ -1,0 +1,8 @@
+*  Terminal is a version control of the files and folders in our laptop.
+In other words, We can directly manipulate our folders from the terminal.
+
+* The main difference between Git and Github, is that Github is a repository 
+for our code and Git is a version control that helps us add and push project changes into Github.
+
+* We use Github because every other software engineer uses this repo for their projects.
+Also, Github is safe and secure.
